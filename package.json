@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "async javascript practice landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-oages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vera2367/Async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vera2367/Async-landing/issues"
+  },
+  "homepage": "https://github.com/vera2367/Async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
